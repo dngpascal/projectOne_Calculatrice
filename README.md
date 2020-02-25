@@ -2,7 +2,7 @@
 OpenClassRoom Java Class - TP5 Calculatrice
 
 Premier programme Java - Repository GitHub créé le : 
-- 25 Février 2020, 
+- 25 Février 2020, 10h03 
 - Ho Chi Minh, Vietnam 
 - (US Consulate - American Center) 
 

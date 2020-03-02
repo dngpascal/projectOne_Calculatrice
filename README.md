@@ -1,5 +1,4 @@
-# projectOne_Calculatrice
-OpenClassRoom Java Class - TP5 Calculatrice
+# projectOne_Calculatrice 
 
 Premier programme Java - Repository GitHub créé le : 
 - 25 Février 2020, 10h03 
